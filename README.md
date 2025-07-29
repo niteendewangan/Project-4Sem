@@ -226,6 +226,3 @@ socket.emit("message", { text: "Hello from client!" });
 ✅ **MongoDB User Storage**  
 ✅ **Real-Time Updates via WebSockets**  
 ✅ **REST API Endpoints**  
-
-
-ChatGPT Link : https://chatgpt.com/share/67e63cc7-f8b8-8010-991d-38bcfbfbcc52
