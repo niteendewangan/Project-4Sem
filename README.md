@@ -227,7 +227,5 @@ socket.emit("message", { text: "Hello from client!" });
 ✅ **Real-Time Updates via WebSockets**  
 ✅ **REST API Endpoints**  
 
-Now, your **React frontend** can easily connect to this backend. Let me know if you need any modifications! 🚀🔥
-
 
 ChatGPT Link : https://chatgpt.com/share/67e63cc7-f8b8-8010-991d-38bcfbfbcc52
